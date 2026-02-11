@@ -154,14 +154,4 @@ AI Student | Full-Stack AI Developer
 
 ---
 
-## ⭐ If you like this project, give it a star!
 
-```
-
----
-
-Next, tell me if you want:
-- A logo for Wayzen AI
-- Edunet PPT content
-- Deployment guide
-```
